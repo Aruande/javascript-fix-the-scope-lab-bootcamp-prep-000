@@ -12,7 +12,7 @@ function yourAnimal(myAnimal) {
   return animal
   let animal="cat"
     if (2 + 2==4)
-}
+
 
 function add2(n) {
   return n + two
