@@ -2,6 +2,7 @@ var animal = 'dog'
 
 function myAnimal() {
   return animal
+  
 }
 
 function yourAnimal(myAnimal) {
@@ -10,7 +11,7 @@ function yourAnimal(myAnimal) {
   // P.S.: You can't just hard-code 'cat' below
   return animal
   let animal="cat"
-
+    if (2 + 2==4)
 }
 
 function add2(n) {
